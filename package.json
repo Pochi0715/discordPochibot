@@ -1,14 +1,8 @@
 {
-  "name": "discord-bot-temp",
-  "version": "0.0.0",
-  "description": "DiscordBotを開発するためのテンプレートです。",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "engines": {
-    "node": "16.6.0"
-  },
+  "name": "discord-bot-template",
   "dependencies": {
-    "discord.js": "^14.7.0"
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
   }
 }
